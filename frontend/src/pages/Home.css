@@ -1,0 +1,38 @@
+section#post-list {
+  width: 100%;
+  max-width: 490px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+
+section#post-list article {
+  background-image: url("../assets/fundo.png");
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  box-shadow: 15px 15px 15px #ddd;
+  color: #1eb2a6;
+  font-size: 15px;
+  /* text-decoration:line-through ; */
+  font-family: cursive;
+  font-weight: bold;
+  /* text-align: center; */
+  cursor: grab;
+}
+
+section#post-list article input {
+  margin: 0 40px 0 10px;
+  height: 20px;
+  width: 20px;
+  background-color: #eee;
+}
+
+section#post-list article:hover {
+  box-shadow: 20px 20px 20px #ddd;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: grey;
+}
