@@ -4,7 +4,7 @@
 
 # Tecnologias
 
-ReactJS NodeJS :purple_heart: :purple_heart:
+ReactJS NodeJS MongoDB :purple_heart: :purple_heart: :purple_heart:
 
 <img src="img/todolist.gif" alt="drawing" width="700" height="400"/>
 
