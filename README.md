@@ -6,9 +6,11 @@
 
 ReactJS NodeJS :purple_heart: :purple_heart:
 
-<img src="img/fundo.jpeg" alt="drawing" width="700" height="400"/>
+<img src="img/todolist.gif" alt="drawing" width="700" height="400"/>
 
 ## :pencil2: Development setup
+
+Instalar mongodb local.
 
 Api
 ```sh
