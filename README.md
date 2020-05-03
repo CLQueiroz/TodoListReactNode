@@ -1,14 +1,14 @@
 # Todo List
 
-## Projeto simples para treinar
+## :rocket: :rocket: Projeto simples para treinar 
 
 # Tecnologias
 
-ReactJS NodeJS
+ReactJS NodeJS :purple_heart: :purple_heart:
 
-<img src="img/fundo.jpeg" alt="drawing" width="700"/>
+<img src="img/fundo.jpeg" alt="drawing" width="700" height="400"/>
 
-## Development setup
+## :pencil2: Development setup
 
 Api
 ```sh
@@ -20,3 +20,5 @@ Frontend
 npm install or yarn
 npm start or yarn start
 ```
+## Desenvolvido por:
+:coffee: :computer: Caique Onisto Queiroz
