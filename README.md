@@ -8,9 +8,12 @@ ReactJS NodeJS MongoDB :purple_heart: :purple_heart: :purple_heart:
 
 <img src="img/todolist.gif" alt="drawing" width="700" height="400"/>
 
-## :pencil2: Development setup
+## ✋🏻 Pré-requisitos
 
-Instalar mongodb local.
+- [Node.js](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/pt-BR/docs/install)
+- [mongoDB](https://www.mongodb.com/)
+## 🔥 Development setup
 
 Api
 ```sh
@@ -22,5 +25,7 @@ Frontend
 npm install or yarn
 npm start or yarn start
 ```
+
 ## Desenvolvido por:
-:coffee: :computer: Caique Onisto Queiroz
+
+👨🏼‍💻  Caique Onisto Queiroz
